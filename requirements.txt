@@ -4,4 +4,3 @@ scikit-learn
 requests
 numpy
 nltk
-string 
